@@ -16,10 +16,10 @@ terraform init
 
 terraform plan
 
-#4, Then apply the modules to build your infrastructure of choice 
+# 4, Then apply the modules to build your infrastructure of choice 
 terraform apply 
 
-#5, After the infrastructure has been used , you may destroy 
+# 5, After the infrastructure has been used , you may destroy 
 
 terraform destroy 
 
