@@ -14,14 +14,14 @@ Follow along with the [Learn guide](https://learn.hashicorp.com/terraform/module
 
 # 3, We need to run the terraform plan to look out for any error or complains from our terraform codes. Correct any error displayed or at best make it conform to the state you want your infrastructure to be.
 
-## terraform plan
+##terraform plan
 
 #4, Then apply the modules to build your infrastructure of choice 
-## terraform apply 
+##terraform apply 
 
 #5, After the infrastructure has been used , you may destroy 
 
-## terraform destroy 
+##terraform destroy 
 
 
 
