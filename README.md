@@ -6,7 +6,7 @@ Follow along with the [Learn guide](https://learn.hashicorp.com/terraform/module
 
 To use this modules , you can need to clone the whole code or pull the code 
 1, 
-# git clone https://github.com/olawale241/infraasacode.git 
+## git clone https://github.com/olawale241/infraasacode.git 
 # git pull https://github.com/olawale241/infraasacode.git
 
 2,
